@@ -1,0 +1,8 @@
+google-cloud-vision==3.7.2
+python-dotenv==1.0.1
+google-auth==2.29.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.3.0
+google-genai 
+google-cloud-vision

@@ -1,0 +1,9 @@
+.env
+*__pychache__/
+*.pyc
+*.pyo
+backup
+data
+docs
+only_csv\scanned_LG1_2
+output_folder

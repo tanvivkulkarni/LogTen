@@ -1,0 +1,33 @@
+```csv
+FLIGHT,,,,,,,,,,,,,,,,RECORD
+"Year.",,"Aircraft",,,,"Pilot",,"Other Pilot",,"Route, Exercise and/or Remarks",,"SINGLE-ENGINE FLIGHT TIME",,,,"MULTI-ENGINE FLIGHT TIME",,,,,,,"TRIP",,"INSTRUMENT",,"SPECIALIST"
+"","","Month","Day","Type","Reg No","in","or","","","","Dual","","In-Command","","Dual","","In-Command","","Co-pilot","","Totals","FLIGHT TIME","FLIGHT TIME"
+"","","","","","","Command","Crew","","","","(1)","(2)","(3)","(4)","(5)","(6)","(7)","(8)","(9)","(10)","(1) to (10)","(ICUS)","PROGRESSIVE"
+"","","","","","","","","","","","Day","Night","Day","Night","Day","Night","Day","Night","Day","Night","","","TOTAL"
+"Progressive Totals Carried Forward",,,,,,,,,"41.2",,"35.2",,,,,,,,,"76.4","3.0",""
+"1990","MAR","7","PA-38","BNY","K. AMBROSE","SELF","TYPE CHECK",,,,1.4(I),,,,,,,,77.8,1.4,""
+"1990","MAR","7","PA-38","IJH","K. AMBROSE","SELF","Revision",,,,0.5(I),,,,,,,,78.3,1.9,""
+"1990","MAR","8","PA-28","RVJ","K. AMBROSE","SELF","TYPE CHECK.",,,,0.7(I),,,,,,,,79.0,2.6,""
+"1990","MAR","8","PA-28","RVJ","K. AMBROSE","SELF","TYPE CHECK",,,,0.9(I),,,,,,,,79.9,3.5,""
+"1990","MAR","9","PA-38","BNY","SELF","","CIRCUITS",,,,0.8,,,,,,,,80.7,""
+"1990","MAR","9","PA-38","BNY","SELF","","Revision Forced Landings",,,,0.5,,,,,,,,81.2,""
+"1990","MAR","9","PA-38","MHA","SELF","","CIRCUITS",,,,1.0,,,,,,,,82.2,""
+"1990","MAR","30","PA-28","RQP","M.GERRATY","SELF","NAV 1 - MC - KRY - MC",2.7,,,,,,,,,,84.9,""
+"1990","MAR","8","PA-38","BNY","SELF","","CIRCUITS",,,,0.8,,,,,,,,85.7,""
+"TOTAL FOR MONTH",,,,,,,,"2.7",,"6.6",,,,,,,,,"FLYING TIMES WITH",""
+"","","","","","","","","","","","","","","","","","","","","","M.OGARTY'S AVIATION ACADEMY",""
+"","","","","","","","","","","","","","","","","","","","","","CORRECT TO DATE 30/3/90","NO. Of hours flown to day."
+"PROGRESSIVE TOTAL :",,,,,,,,43.9,,41.8,,,,,,,,85.7,""
+"1990","APRIL","2","AA-5A","VEL","K. AMBROSE","SELF","TYPE CHECK",,,,0.4(I),,,,,,,,86.1,3.9,""
+"1990","APRIL","4","AA-5A","XEL","M.GERRATY","SELF","CIRCUITS",,,,0.7(I),,,,,,,,86.8,4.6,""
+"1990","APRIL","5","AA-5A","XEL","M.GERRATY","SELF","TYPE CHECK",,,,0.8(I),,,,,,,,87.6,5.4,""
+"1990","APRIL","6","PA-28R","RRP","M.GERRATY","SELF","CSU RT ENDORSEMENT.",0.9,,,,,,,,,,88.5,""
+"1990","APRIL","6","PA-28R","RRP","M.GERRATY","SELF","CSU RT ENDORSEMENT",0.7,,,,,,,,,,89.2,""
+"1990","APRIL","9","PA-28R","RRP","M.GERRATY","SELF","CRUISE TECHNIQUES.",0.9,,,,,,,,,,90.1,""
+"1990","APRIL","9","PA-28R","RRP","M.GERRATY","SELF","EMERGENCY CIRCUITS",0.6,,,,,,,,,,90.7,""
+"1990","APRIL","9","PA38","MHA","M.GERRATY","SELF","PAF 3 B.I.F.",0.9,,,,,,,,0.7,,91.6,0.7,""
+"1990","APRIL","10","PA38","BNY","M.GERRATY","SELF","PAF 3 B.I.F.",1.0,,,,,,,,0.8,,92.6,0.8,""
+"Progressive Totals",,,,,,,,48.9,,43.7,,,,,,,,92.6,4.5,5.4
+"Grand Total","92.6","hours [All flying - columns (1) to (10)]",,,,,,,,,,,,,,,,,
+"Total Aeronautical Experience","92.6","hours [All flying less 50% of columns (9) and (10)]",,,,,,,,,,,,,,,,,
+```
